@@ -12,7 +12,7 @@ import java.util.List;
 @RestController()
 @RequestMapping("/ws/patient")
 public class PatientAPIController {
-
+//test push
     @Autowired
     PatientService ps;
 
